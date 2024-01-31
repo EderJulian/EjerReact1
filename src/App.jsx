@@ -3,7 +3,6 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import Person from './components/Person'
-import PersonClass from './components/PersonClass'
 import Home from "./components/Home/Home";
 import TheHeader from "./components/TheHeader/TheHeader";
 
