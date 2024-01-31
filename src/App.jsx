@@ -12,9 +12,9 @@ function App() {
 
 {/* Ejercicio 1.2 */}
 
-      <Person name="Dani" surname='Sopa' age='26'></Person>
-      <Person name='Eder' surname='Julián' age='29'></Person>
-      <Person name='Holy' surname='Onorato' age='32'></Person>
+      <Person name="Dani" surname='Sopa' age='28'></Person>
+      <Person name='Eder' surname='Julián' age='26'></Person>
+      <Person name='Holy' surname='Onorato' age='23'></Person>
       
 
 {/* Ejercicio 2 */}
